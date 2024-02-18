@@ -1,1 +1,1 @@
-# SMC
+# SMC-Single Mission Crowdfunding.
